@@ -1,5 +1,5 @@
 # my-meta-coding-repo
-When I have free time, I like to try solving coding riddles. This is a meta-repo that contains links to all other coding repos I have attemped in the past. Last updated: 5/17/22.
+When I have free time, I like to try solving coding riddles. This is a meta-repo that contains links to all other coding repos I have attemped in the past. `my-meta-coding-repo` last updated: 5/17/22; each individual repo updated more frequently.
 
 Self-Learning
 - [DS-Algo-Repo](https://github.com/cdenq/my-ds-algo-repo). A self-learning side project to learn about data structures, algorithms, and computational complexity.
