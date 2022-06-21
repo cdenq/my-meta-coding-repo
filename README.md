@@ -11,7 +11,6 @@ When I have free time, I like to try solving coding riddles. This is a meta-repo
 
 ### Self-Learning (Online)
 - [DS-Algo-Repo](https://github.com/cdenq/my-ds-algo-repo). A self-learning side project to learn about data structures, algorithms, and computational complexity.
-- [Star-SQL-Repo](https://github.com/cdenq/my-select-star-sql-repo). A self-learning side project to learn about SQL using the [Select Star SQL Tutorial](https://selectstarsql.com/).
 
 ### Self-Learning (Textbook)
 - [MIT-Fund-of-ML](https://github.com/cdenq/my-machine-learning-mit-book-study). "Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies" by John D. Kelleher, Brian Mac Namee and Aoife D'Arcy
